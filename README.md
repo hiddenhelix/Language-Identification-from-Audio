@@ -2,7 +2,6 @@
 
 Fine-tuning `facebook/mms-300m` with audio augmentation and adversarial debiasing (DANN) to identify spoken language across India's 22 constitutionally recognized languages, while explicitly suppressing speaker-identity shortcuts.
 
-> NNTI (Neural Networks: Theory and Implementation) course project — Universität des Saarlandes.
 > Full writeup: [`Project_report_NNTI__MAIN_.pdf`](./Project_report_NNTI__MAIN_.pdf) · Task spec: [`NNTI_Term_Description.pdf`](./NNTI_Term_Description.pdf)
 
 ## Problem
