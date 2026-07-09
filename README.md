@@ -39,7 +39,6 @@ Gains are concentrated in acoustically distinctive languages (Kashmiri, Manipuri
 | `train_model.py` | End-to-end training/eval script (cell-marked with `#%%` for notebook conversion) |
 | `Project_report_NNTI__MAIN_.pdf` | Full write-up: methodology, results, embedding analysis |
 | `NNTI_Term_Description.pdf` | Original course task specification |
-| `READ.ME` | Original Colab run notes |
 
 ## Method details
 
